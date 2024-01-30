@@ -20,7 +20,7 @@ The client server functions should be tested by invoking the unit tests under ``
 be able to invoke your unit tests by running ```ctest``` in the root of the build tree.
 
 If it is more intuitive or useful for debugging purposes, we have provided separate executables under
-```test_manual```. Feel free to use these to run your client and server manually on separate processes.
+```/test_manual```. Feel free to use these to run your client and server manually on separate processes.
 
 ## Grading and Submission
 
